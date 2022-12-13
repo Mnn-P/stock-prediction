@@ -1,7 +1,7 @@
 # Stock_Prediction
 make stock prediction model using Tensorflow, Python and web crawling
 
-#Plan 
+# Plan 
 > collect news data from web crawling and extract core word using LSTMs and Dynamic RNNs
 > get all stock data(Open,High,Low,Volume,Close) of company and store in database
 > make RNN model using stock data and core word 
