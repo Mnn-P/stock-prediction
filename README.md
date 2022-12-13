@@ -7,4 +7,4 @@ make stock prediction model using Tensorflow, Python and web crawling
 > make RNN model using stock data and core word 
 
 # accuracy of RNN model for predicting stock (model by 'TSLA' data and test alphabet company)
-![alt text](https://github.com/Mnn-P/stock-prediction/blob/master/stock_prediction.jpeg)
+![alt text](/stock_prediction.jpeg)
